@@ -33,6 +33,4 @@ The goal of this task is to accurately identify the wells on an ELISA plate. The
 - **Script**: `scripts/well_identification.py`
 - **Dependencies**: List of required libraries can be found in `requirements.txt`.
 
-### Usage
-```bash
-python scripts/well_identification.py --input data/sample_dataset/elisa_plate_1.jpg --output results/well_identification_output.jpg
+## Task 2: Computer Vision for ELISA Plate Image Reading Prediction
